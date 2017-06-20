@@ -24,6 +24,6 @@
 
 Quellen:
 
-https://github.com/louim/in-case-of-fire
+https://github.com/louim/in-case-of-fire/
 
 https://git-scm.com/doc/
