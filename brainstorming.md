@@ -19,3 +19,19 @@
 
 - [ ] kurze Präse mit Eckdaten zum System
 - [ ] Glossar mit Grundbegriffen zu Git & Co.
+- [ ] 10 Useraccounts
+- [ ] ein Projekt mit Pipeline
+- [ ] Dummy-Inhalte
+
+## Inhalte der Präsentation
+
+- Titel
+- Vorstellung
+- Agenda
+- Static Site Generators
+    - GitBook
+    - Jekyll
+- Markdown
+- GitHub & Co.
+- Docker im Zusammenspiel mit GitLab Runner und CI/CD
+    - diesen Teil eher knapp und ein wenig "magic", aber nur aus Zeitgründen und mit dem Argument, dass damit die Lernkurve gesenkt wird, weil Anwender_innen keine Kommandozeilentools verwenden müssen.
