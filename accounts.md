@@ -1,57 +1,47 @@
-oercamp01
-
-!oercamp01#
-
----
-
-oercamp02
-
-!oercamp02#
+- [ ] oercamp01
+- [ ] !oercamp01#
 
 ---
 
-oercamp03
-
-!oercamp03#
-
----
-
-oercamp04
-
-!oercamp04#
+- [ ] oercamp02
+- [ ] !oercamp02#
 
 ---
 
-oercamp05
-
-!oercamp05#
-
----
-
-oercamp06
-
-!oercamp06#
+- [ ] oercamp03
+- [ ] !oercamp03#
 
 ---
 
-oercamp07
-
-!oercamp07#
-
----
-
-oercamp08
-
-!oercamp08#
+- [ ] oercamp04
+- [ ] !oercamp04#
 
 ---
 
-oercamp09
-
-!oercamp09#
+- [ ] oercamp05
+- [ ] !oercamp05#
 
 ---
 
-oercamp10
+- [ ] oercamp06
+- [ ] !oercamp06#
 
-!oercamp10#
+---
+
+- [ ] oercamp07
+- [ ] !oercamp07#
+
+---
+
+- [ ] oercamp08
+- [ ] !oercamp08#
+
+---
+
+- [ ] oercamp09
+- [ ] !oercamp09#
+
+---
+
+- [ ] oercamp10
+- [ ] !oercamp10#
