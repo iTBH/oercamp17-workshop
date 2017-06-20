@@ -35,3 +35,9 @@
 - GitHub & Co.
 - Docker im Zusammenspiel mit GitLab Runner und CI/CD
     - diesen Teil eher knapp und ein wenig "magic", aber nur aus Zeitgründen und mit dem Argument, dass damit die Lernkurve gesenkt wird, weil Anwender_innen keine Kommandozeilentools verwenden müssen.
+
+## Thema des Beispiel-GitBook
+
+- Recycling statt wegwerfen
+- Fidget Spinner
+- 3D-Drucker
