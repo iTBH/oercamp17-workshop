@@ -1,0 +1,5 @@
+- `git clone`
+- `git pull`
+- `git add`
+- `git commit`
+- `git push`
