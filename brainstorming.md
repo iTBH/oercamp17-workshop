@@ -19,3 +19,10 @@
 
 - [ ] kurze Präse mit Eckdaten zum System
 - [ ] Glossar mit Grundbegriffen zu Git & Co.
+
+## Thema des Beispiel-GitBook
+
+- Recycling statt wegwerfen
+- Fidget Spinner
+- 3D-Drucker
+
