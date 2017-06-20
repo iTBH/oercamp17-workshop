@@ -1,3 +1,5 @@
+![https://github.com/louim/in-case-of-fire](https://github.com/louim/in-case-of-fire/blob/master/in_case_of_fire.png?raw=true)
+
 # Git
 
 - `git clone`
@@ -20,9 +22,11 @@
 
     Update remote refs along with associated objects
     
----
+# Docker
 
-![https://github.com/louim/in-case-of-fire](https://github.com/louim/in-case-of-fire/blob/master/in_case_of_fire.png?raw=true)
+- `docker run mygitbook`
+    
+---
 
 Quellen:
 
