@@ -3,10 +3,14 @@
 
 **Axel Dürkop, Andreas Böttger, Tina Ladwig, ITBH an der TUHH**
 
+---
+
 <!-- slide -->
 # Elevator Pitch {.ignore}
 
 > "Wir haben an der TUHH ein technisches System entwickelt, mit dem wir OER erstellen, verarbeiten, vermischen und verbreiten können. Dafür nutzen wir GitLab und Static Site Generators."
+
+---
 
 <!-- slide -->
 ## Agenda {.ignore}
