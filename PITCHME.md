@@ -121,9 +121,20 @@ Wir arbeiten mit vorbereiteten Nutzeraccounts in einem vorbereiteten Projekt.
 - URL: https://collaborating.tuhh.de/
 - Benutzername: ---
 - Passwort: ---
-- Projektname: `oercamp17-workshop`
+- Projektname: `sample`
 
 ---
+
+## Zusammenarbeit
+
+Szenario:
+
+- Kurze Planung, Gliederung, Thema: Tiere
+- Branch `[lieblingstier]` erstellen
+- Neue Datei `[lieblingstier].md` anlegen
+- -> Inhalte einpflegen, speichern
+- |  Vorschau des Branches ansehen
+- <- WIP Merge Request auf den *master* stellen
 
 # Abschluss & Diskussion
 
