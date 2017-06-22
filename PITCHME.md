@@ -1,19 +1,17 @@
-# Static Site Generators für die Entwicklung von OER nutzen {.ignore}
+# Static Site Generators für die Entwicklung von OER nutzen
 
 **Axel Dürkop, Andreas Böttger, Tina Ladwig, ITBH an der TUHH**
 
 ---
 
-# Elevator Pitch {.ignore}
+# Elevator Pitch
 
 > "Wir haben an der TUHH ein technisches System entwickelt, mit dem wir OER erstellen, verarbeiten, vermischen und verbreiten können. Dafür nutzen wir GitLab und Static Site Generators."
 
 ---
 
-# Agenda {.ignore}
+# Agenda
 
-
-<!-- toc orderedList:0 depthFrom:1 depthTo:1 -->
 
 * [Ziele des Workshops](#ziele-des-workshops)
 * [Der Technikstack](#der-technikstack)
@@ -21,8 +19,6 @@
 * [Soziale Workflows](#soziale-workflows)
 * [Ausprobieren!](#ausprobieren)
 * [Abschluss & Diskussion](#abschluss-diskussion)
-
-<!-- tocstop -->
 
 ---
 
