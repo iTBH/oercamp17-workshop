@@ -1,0 +1,41 @@
+.preview-slides .slide,
+&[data-presentation-mode] {
+
+  // background: @footer-text;
+  // background: @footer-img;
+  // background-size: 8%;
+
+
+  .slide-background {
+    padding: 40px;
+  }
+
+  img {
+    width: 70%;
+    display: inherit;
+    margin: 0 auto;
+  }
+
+  .important {
+    text-align: center;
+    font-size: 40px;
+    width: 100%;
+  }
+
+  .quote {
+    text-align: center;
+    font-size: 36px;
+    blockquote {
+      margin: 0 auto;
+      max-width: 85%;
+    }
+  }
+
+  .slides:after {
+    content: "Dürkop, Böttger, Ladwig, ITBH an der TUHH | 24. Juni 2017 | OERcamp Nord 2017";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-size: 16px;
+  }
+}
