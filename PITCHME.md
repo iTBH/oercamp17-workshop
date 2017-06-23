@@ -80,7 +80,7 @@
 - (+) schnelles Ausprobieren
 - (+) Reproduzierbarkeit von Umgebungen
 - (+) Skalierbarkeit
-- (-) unausgereifte Administrationstools
+- (-) Low Level Administrationstools
 
 ---
 
